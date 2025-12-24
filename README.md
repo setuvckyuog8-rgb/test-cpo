@@ -138,12 +138,6 @@ Student_Database_COSA/
 
 ---
 
-## 🧑‍💻 Maintainers
-
-This project is maintained by:
-
-- [@harshitap1305](https://github.com/harshitap1305)
-- [@sakshi1755](https://github.com/sakshi1755)
 
 ---
 
@@ -152,5 +146,6 @@ This project is maintained by:
 ## 📧 Contact
 
 If you have any questions or feedback, feel free to reach out to the maintainers.
+
 
 
